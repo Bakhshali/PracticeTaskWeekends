@@ -1,0 +1,14 @@
+C:\Users\Ali\source\repos\PraticeReturnLesson\PraticeReturnLesson\bin\Debug\netcoreapp3.1\PraticeReturnLesson.exe
+C:\Users\Ali\source\repos\PraticeReturnLesson\PraticeReturnLesson\bin\Debug\netcoreapp3.1\PraticeReturnLesson.deps.json
+C:\Users\Ali\source\repos\PraticeReturnLesson\PraticeReturnLesson\bin\Debug\netcoreapp3.1\PraticeReturnLesson.runtimeconfig.json
+C:\Users\Ali\source\repos\PraticeReturnLesson\PraticeReturnLesson\bin\Debug\netcoreapp3.1\PraticeReturnLesson.runtimeconfig.dev.json
+C:\Users\Ali\source\repos\PraticeReturnLesson\PraticeReturnLesson\bin\Debug\netcoreapp3.1\PraticeReturnLesson.dll
+C:\Users\Ali\source\repos\PraticeReturnLesson\PraticeReturnLesson\bin\Debug\netcoreapp3.1\PraticeReturnLesson.pdb
+C:\Users\Ali\source\repos\PraticeReturnLesson\PraticeReturnLesson\obj\Debug\netcoreapp3.1\PraticeReturnLesson.csproj.AssemblyReference.cache
+C:\Users\Ali\source\repos\PraticeReturnLesson\PraticeReturnLesson\obj\Debug\netcoreapp3.1\PraticeReturnLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\source\repos\PraticeReturnLesson\PraticeReturnLesson\obj\Debug\netcoreapp3.1\PraticeReturnLesson.AssemblyInfoInputs.cache
+C:\Users\Ali\source\repos\PraticeReturnLesson\PraticeReturnLesson\obj\Debug\netcoreapp3.1\PraticeReturnLesson.AssemblyInfo.cs
+C:\Users\Ali\source\repos\PraticeReturnLesson\PraticeReturnLesson\obj\Debug\netcoreapp3.1\PraticeReturnLesson.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\PraticeReturnLesson\PraticeReturnLesson\obj\Debug\netcoreapp3.1\PraticeReturnLesson.dll
+C:\Users\Ali\source\repos\PraticeReturnLesson\PraticeReturnLesson\obj\Debug\netcoreapp3.1\PraticeReturnLesson.pdb
+C:\Users\Ali\source\repos\PraticeReturnLesson\PraticeReturnLesson\obj\Debug\netcoreapp3.1\PraticeReturnLesson.genruntimeconfig.cache
